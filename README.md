@@ -1,7 +1,3 @@
-#### 03 /2 5 /
-
-### Page 1 of 11
-
 # Tuncay Delibasi, MD,
 
 ## Education
