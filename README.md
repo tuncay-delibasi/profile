@@ -1,4 +1,4 @@
-# Tuncay Delibasi, MD,
+# Tuncay Delibasi, MD
 
 ## Education
 
