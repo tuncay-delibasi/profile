@@ -1704,3 +1704,6 @@ D1680L00003 PROMT PI 3 2009
 CLAF237B2224 PI 3 2009
 ```
 
+**Sources**
+
+[GitHub](https://github.com/tuncay-delibasi/profile), [GitLab](https://gitlab.com/tuncay-delibasi/profile), and [GitBook CV](https://cv.tuncaydelibasi.com/)
